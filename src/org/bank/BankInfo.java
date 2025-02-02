@@ -17,6 +17,10 @@ private void bankAdress() {
 	System.out.println("thangachimadam");	
 	
 }
+public void Runner() {
+	System.out.println("usain bold");
+	
+}
 
 public static void main(String[] args) {
 	BankInfo b = new BankInfo();
@@ -25,6 +29,9 @@ public static void main(String[] args) {
 	b.accountNumber();
 	b.bankAdress();
 	b.sortCode();
+	b.Runner();
 	
 }
 }
+// git checkout 
+// git fetch 
